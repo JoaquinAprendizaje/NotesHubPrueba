@@ -1,0 +1,2 @@
+- [ ] Funcionó
+- [ ] No funcionó
