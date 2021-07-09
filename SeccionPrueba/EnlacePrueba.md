@@ -1,2 +1,2 @@
-- [ X ] Marcar esta casilla si funcionó
+- [ x ] Marcar esta casilla si funcionó
 - [ ] Marcar esta casilla si no funcionó
