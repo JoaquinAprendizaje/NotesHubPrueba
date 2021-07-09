@@ -48,3 +48,8 @@ En conclusión, me parece una herramienta bastante útil, tiene cuestiones que y
 - Que si utilizó un shortcut simplemente me ponga la primera parte del Markup, y cuando lo quite añadá la segunda parte. Esto permitiría escribir más fácil.
 - Si se pudiera sincronizar de manera automática en vez de tener que guardar el texto sería increible, sin embargo, esto no considero que sea fatal al momento.
 - Los enlaces sería interesante que funcionarán tanto si son enlaces externos al cuaderno o no.
+- *Syntax Highlight*
+
+Considero que cualquiera que use esta herramienta esta tomando una decisión que puede ser de las correctas. Tal vez es un poco antes para concluirlo, sin embargo, me parece una excelente opción.
+
+Finalmente, no descarto la idea de apoyar al proyecto tratando de implementar lo anteriormente dicho, o en caso de aventurarme más, realizar mi propia aplicación.
