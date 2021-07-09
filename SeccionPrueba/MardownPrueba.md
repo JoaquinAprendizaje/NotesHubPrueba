@@ -12,6 +12,6 @@ Esta aplicación la encontré mientras investigaba acerca de MarkDown, un *marku
 
 En definitiva, parece ser que esta aplicación, por lo menos en las funciones que he probado aquí parece ser útil. Todavía hace falta que pruebe que tal funciona con código. Por ejemplo, aquí voy a probar la funcionalidad de añadir una imagen:
 
-![Imagen para saber que tal funciona esto](./img/rex.png)
+![Imagen para saber que tal funciona esto](../img/rex.png)
 
 Por el momento parece complicado añadir una imagen. En primera instnacia tuve que añadirla directamente en el repositorio de Github. No tuve la posibilidad de hacerlo desde la aplicación.
