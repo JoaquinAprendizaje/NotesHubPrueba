@@ -23,5 +23,5 @@ Los accesos rápidos del celular, a excepción del mencionado, funcionan de mane
 
 | aqui | hay |
 |--|--|
-| hay | tabla |
+| una | tabla |
 
