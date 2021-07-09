@@ -15,7 +15,7 @@ En definitiva, parece ser que esta aplicación, por lo menos en las funciones qu
 ![Imagen para saber que tal funciona esto](../img/rex.png)
 
 
-Por el momento parece complicado añadir una imagen. En primera instnacia tuve que añadirla directamente en el repositorio de Github. No tuve la posibilidad de hacerlo desde la aplicación. En la aplicación no me aparece que he adjuntado la imagen. Aparece una imagen default. Sin embargo, si me voy al repositorio remoto puedo encontrar que la imagen se ha añadido de manera correcta. 
+Por el momento parece complicado añadir una imagen. En primera instancia tuve que añadirla directamente en el repositorio de Github. No tuve la posibilidad de hacerlo desde la aplicación. En la aplicación no me aparece que he adjuntado la imagen. Aparece una imagen default. Sin embargo, si me voy al repositorio remoto puedo encontrar que la imagen se ha añadido de manera correcta. 
 Esto podría ser una desventaja importante, sin embargo no se suele añadir archivos binarios en repositorios. Además, para este tipo de cosas OneNote. Esa aplicación la estaré usando cuando tome apuntes "a mano".
 
 
@@ -24,7 +24,7 @@ Este texto lo escribí desde la aplicación en un dispositivo android. Una parti
 En general no considero que sea una falta demasiado importante, pero si a tomar en cuenta.
 Los accesos rápidos del celular, a excepción del mencionado, funcionan de manera correcta. 
 
-| aqui | hay |
+| aquí | hay |
 |--|--|
 | una | tabla |
 
@@ -38,17 +38,19 @@ Si dirige a una página web, tendrá problemas. Hay una cuestión curiosa respec
 No estoy seguro que sea lo más adecuado, sin embargo, desde que esta aplicación se esta utilizando para una mejor gestión, supondré que lo más conveniente es que se pueda navegar dentro de la misma.
 ![image](/.attachments/4cb608352b2c7f608b2db1f32dbabe390cb8423a.png)
 
-He logrado añadir una imagen de manera adecuada. Esto en la aplicación de escritorio no tuvo ningun problema. Supondré que esto se debe a que realmente esta aplicación se ejecuta desde un navegador. En el caso particular de mi computadora es Edge. En mi celular es Brave. Probaré en otra ocasión el cambiar de navegador en celular para ver si esto funciona.
+He logrado añadir una imagen de manera adecuada. Esto en la aplicación de escritorio no tuvo ningún problema. Supondré que esto se debe a que realmente esta aplicación se ejecuta desde un navegador. En el caso particular de mi computadora es Edge. En mi celular es Brave. Probaré en otra ocasión el cambiar de navegador en celular para ver si esto funciona.
 
 A pesar de contar con un botón de adjuntar archivo y otro para adjuntar imagen, realmente el de adjuntar archivo te ayuda a añadir una imagen de manera más sencilla. El de añadir imagen solamente escribe el tag necesario para poder añadir una imagen.
 
-> Finalmente, **Estare usando** _los distintos_ shortcuts `mientras escribo`.
+> Finalmente, **Estaré usando** _los distintos_ shortcuts `mientras escribo`.
+
+Algo que me parece increíble también y que no se si se haya hecho a propósito, es que al usar un navegador, tienes corrección de texto. Siempre se agradece esto, y parece una solución bastante elegante si me lo preguntas.
 
 # Conclusión
 
-En conclusión, me parece una herramienta bastante útil, tiene cuestiones que yo cambiaría, sin embargo, para propositos generales parece que esto funcionará para mí. Si tuviera que decir que mejoraría sería:
-- Que si utilizó un shortcut simplemente me ponga la primera parte del Markup, y cuando lo quite añadá la segunda parte. Esto permitiría escribir más fácil.
-- Si se pudiera sincronizar de manera automática en vez de tener que guardar el texto sería increible, sin embargo, esto no considero que sea fatal al momento.
+En conclusión, me parece una herramienta bastante útil, tiene cuestiones que yo cambiaría, sin embargo, para propósitos generales parece que esto funcionará para mí. Si tuviera que decir que mejoraría sería:
+- Que si utilizó un shortcut simplemente me ponga la primera parte del Markup, y cuando lo quite añada la segunda parte. Esto permitiría escribir más fácil.
+- Si se pudiera sincronizar de manera automática en vez de tener que guardar el texto sería increíble, sin embargo, esto no considero que sea fatal al momento.
 - Los enlaces sería interesante que funcionarán tanto si son enlaces externos al cuaderno o no.
 - *Syntax Highlight*
 
