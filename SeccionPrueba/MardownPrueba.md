@@ -34,7 +34,7 @@ Los accesos rápidos del celular, a excepción del mencionado, funcionan de mane
 
 
 Algo curioso acerca del enlace es que dependiendo a donde dirija funcionará en la aplicación o no. Si dirige hacia un documento dentro de la misma, no tendrá problemas. De hecho, no importa que sean de distintas secciones.
-Si dirige a una página web, tendrá problemas.
+Si dirige a una página web, tendrá problemas. Hay una cuestión curiosa respecto a esto. Si añades la extensión del archivo, hará que en GitHub funcione de manera correcta, pero deje de funcionar en la aplicación, y viceversa.
 No estoy seguro que sea lo más adecuado, sin embargo, desde que esta aplicación se esta utilizando para una mejor gestión, supondré que lo más conveniente es que se pueda navegar dentro de la misma.
 ![image](/.attachments/4cb608352b2c7f608b2db1f32dbabe390cb8423a.png)
 
