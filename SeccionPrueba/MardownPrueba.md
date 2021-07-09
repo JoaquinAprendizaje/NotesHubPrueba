@@ -34,3 +34,16 @@ Algo curioso acerca del enlace es que dependiendo a donde dirija funcionará en 
 Si dirige a una página web, tendrá problemas.
 No estoy seguro que sea lo más adecuado, sin embargo, desde que esta aplicación se esta utilizando para una mejor gestión, supondré que lo más conveniente es que se pueda navegar dentro de la misma.
 ![image](/.attachments/4cb608352b2c7f608b2db1f32dbabe390cb8423a.png)
+
+He logrado añadir una imagen de manera adecuada. Esto en la aplicación de escritorio no tuvo ningun problema. Supondré que esto se debe a que realmente esta aplicación se ejecuta desde un navegador. En el caso particular de mi computadora es Edge. En mi celular es Brave. Probaré en otra ocasión el cambiar de navegador en celular para ver si esto funciona.
+
+A pesar de contar con un botón de adjuntar archivo y otro para adjuntar imagen, realmente el de adjuntar archivo te ayuda a añadir una imagen de manera más sencilla. El de añadir imagen solamente escribe el tag necesario para poder añadir una imagen.
+
+> Finalmente, **Estare usando** _los distintos_ shortcuts `mientras escribo`.
+
+# Conclusión
+
+En conclusión, me parece una herramienta bastante útil, tiene cuestiones que yo cambiaría, sin embargo, para propositos generales parece que esto funcionará para mí. Si tuviera que decir que mejoraría sería:
+- Que si utilizó un shortcut simplemente me ponga la primera parte del Markup, y cuando lo quite añadá la segunda parte. Esto permitiría escribir más fácil.
+- Si se pudiera sincronizar de manera automática en vez de tener que guardar el texto sería increible, sin embargo, esto no considero que sea fatal al momento.
+- 
