@@ -12,4 +12,4 @@ Esta aplicación la encontré mientras investigaba acerca de MarkDown, un *marku
 
 En definitiva, parece ser que esta aplicación, por lo menos en las funciones que he probado aquí parece ser útil. Todavía hace falta que pruebe que tal funciona con código. Por ejemplo, aquí voy a probar la funcionalidad de añadir una imagen:
 
-![Imagen para saber que tal funciona esto]()
+![Imagen para saber que tal funciona esto](../img/img1.jpg)
