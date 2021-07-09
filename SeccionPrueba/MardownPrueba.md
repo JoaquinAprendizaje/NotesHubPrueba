@@ -16,7 +16,7 @@ En definitiva, parece ser que esta aplicación, por lo menos en las funciones qu
 
 Por el momento parece complicado añadir una imagen. En primera instnacia tuve que añadirla directamente en el repositorio de Github. No tuve la posibilidad de hacerlo desde la aplicación.
 
-Este texto lo escribí desde la aplicación. Una particularidad que me acaba de suceder es que perdí mi progreso que llevaba escrito en el celular debido a que no pude guardar los cambios ya que la aplicación _crasheo_ debido a tratar de utilizar una función de **adjuntar archivos**.
+Este texto lo escribí desde la aplicación en un dispositivo android. Una particularidad que me acaba de suceder es que perdí mi progreso que llevaba escrito en el celular debido a que no pude guardar los cambios ya que la aplicación _crasheo_ debido a tratar de utilizar una función de **adjuntar archivos**.
 
 En general no considero que sea una falta demasiado importante, pero si a tomar en cuenta.
 Los accesos rápidos del celular, a excepción del mencionado, funcionan de manera correcta. 
