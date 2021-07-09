@@ -14,5 +14,23 @@ En definitiva, parece ser que esta aplicación, por lo menos en las funciones qu
 
 ![Imagen para saber que tal funciona esto](../img/rex.png)
 
+
+::: variant
 Por el momento parece complicado añadir una imagen. En primera instnacia tuve que añadirla directamente en el repositorio de Github. No tuve la posibilidad de hacerlo desde la aplicación. En la aplicación no me aparece que he adjuntado la imagen. Aparece una imagen default. Sin embargo, si me voy al repositorio remoto puedo encontrar que la imagen se ha añadido de manera correcta. 
 Esto podría ser una desventaja importante, sin embargo no se suele añadir archivos binarios en repositorios. Además, para este tipo de cosas OneNote. Esa aplicación la estaré usando cuando tome apuntes "a mano".
+:::
+
+::: alt-variant
+Por el momento parece complicado añadir una imagen. En primera instnacia tuve que añadirla directamente en el repositorio de Github. No tuve la posibilidad de hacerlo desde la aplicación.
+
+Este texto lo escribí desde la aplicación en un dispositivo android. Una particularidad que me acaba de suceder es que perdí mi progreso que llevaba escrito en el celular debido a que no pude guardar los cambios ya que la aplicación _crasheo_ debido a tratar de utilizar una función de **adjuntar archivos**.
+
+En general no considero que sea una falta demasiado importante, pero si a tomar en cuenta.
+Los accesos rápidos del celular, a excepción del mencionado, funcionan de manera correcta. 
+
+| aqui | hay |
+|--|--|
+| una | tabla |
+
+[Esto es un enlace](EnlacePrueba)
+:::
