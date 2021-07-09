@@ -1,2 +1,2 @@
-- [ ] Funcionó
+- [x] Funcionó
 - [ ] No funcionó
