@@ -29,6 +29,7 @@ Los accesos rápidos del celular, a excepción del mencionado, funcionan de mane
 | una | tabla |
 
 [Esto es un enlace](EnlacePrueba)
+[Enlace a Google](www.google.com)
 
 Algo curioso acerca del enlace es que dependiendo a donde dirija funcionará en la aplicación o no. Si dirige hacia un documento dentro de la misma, no tendrá problemas.
 Si dirige a una página web, tendrá problemas.
@@ -46,4 +47,4 @@ A pesar de contar con un botón de adjuntar archivo y otro para adjuntar imagen,
 En conclusión, me parece una herramienta bastante útil, tiene cuestiones que yo cambiaría, sin embargo, para propositos generales parece que esto funcionará para mí. Si tuviera que decir que mejoraría sería:
 - Que si utilizó un shortcut simplemente me ponga la primera parte del Markup, y cuando lo quite añadá la segunda parte. Esto permitiría escribir más fácil.
 - Si se pudiera sincronizar de manera automática en vez de tener que guardar el texto sería increible, sin embargo, esto no considero que sea fatal al momento.
-- 
+- Los enlaces sería interesante que funcionarán tanto si son enlaces externos al cuaderno o no.
