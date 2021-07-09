@@ -28,7 +28,7 @@ Los accesos rápidos del celular, a excepción del mencionado, funcionan de mane
 |--|--|
 | una | tabla |
 
-[Esto es un enlace](EnlacePrueba)
+[Esto es un enlace](EnlacePrueba.md)
 [Enlace a Google](www.google.com)
 
 
