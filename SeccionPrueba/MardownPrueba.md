@@ -25,4 +25,4 @@ Los accesos rápidos del celular, a excepción del mencionado, funcionan de mane
 |--|--|
 | una | tabla |
 
-[Esto es un enlace](enlacePrueba)
+[Esto es un enlace](enlacePrueba.md)
